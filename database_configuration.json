@@ -1,4 +1,4 @@
 {
-    "url": null,
-    "collection": null
+    "url": "mongodb://dexcom:mocxed@ds135690.mlab.com:35690/dexcomg5db",
+    "collection": "entries"
 }

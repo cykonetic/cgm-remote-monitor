@@ -13,6 +13,7 @@ static/bower_components/
 .*.sw?
 .DS_Store
 
+*.komodoproject
 .vagrant
 /iisnode
 
@@ -20,3 +21,4 @@ static/bower_components/
 coverage/
 
 npm-debug.log
+
